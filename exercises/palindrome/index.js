@@ -18,6 +18,9 @@ function palindrome(str) {
   });
 }
 
+
+// solve in plaindrome is out of order: skilled interview question:
+
 // function palindromeSkilledInterview(str) {
 //   let obj = {};
 
